@@ -2,21 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Project List:
 
-[Link to another page](./another-page.html).
+[# Active Directory & Microsoft Sentinal Home Lab](./another-page.html)
 
-There should be whitespace between paragraphs.
+[# Phishing Email Analysis Project](./another-page.html)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[# ServiceNow ITSM Practice](./another-page.html)
 
-[#Active Directory & Microsoft Sentinal Home Lab](./another-page.html)
-
-[#Phishing Email Analysis Project](./another-page.html)
-
-[#ServiceNow ITSM Practice](./another-page.html)
-
-[#Malware Reverse Engineering](./another-page.html)
+[# Malware Reverse Engineering](./another-page.html)
 
 
  
@@ -30,38 +24,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- I built a virtualised enterprise environment in Hyper-V consisting of a Windows Server 2016 Domain Controller, a Windows 10 workstation, and a Kali Linux attacker machine, to simulate a realistic small business network end to end. I administered Active Directory — structuring Organisational Units, managing the full user lifecycle, and applying group-based access control through security groups. I hardened the domain using Group Policy, enforcing password complexity, account lockout thresholds, USB storage restrictions, and screen lock timeouts, scoped per department to reflect real organisational policy design. To bring in a security monitoring layer, I registered the Domain Controller with Azure Arc and deployed the Azure Monitor Agent to forward Windows Security events into Microsoft Sentinel. From there I used KQL to query live authentication telemetry, identifying failed logon events and account lockouts across the domain — the same investigative workflow a SOC analyst uses to detect brute-force activity.
 
-# Phishing Email Analysis Project
-
-I investigated suspected phishing emails using PhishTool and VirusTotal to practise the analyst workflow for email-based threats. This involved analysing email headers and SMTP routing to identify spoofing attempts, decoding Base64-encoded content to inspect hidden payloads, and examining malicious URLs and domains using threat intelligence tools. I documented each investigation and classified the phishing indicators I found, building a repeatable process for identifying and triaging this type of alert — one of the most common categories of incident a Tier 1 SOC analyst handles.
-
-
-# ServiceNow ITSM Practice
-
-I deployed and configured a ServiceNow Personal Developer Instance to practise structured incident lifecycle management — logging, investigation, escalation, and resolution — in a real ITSM platform. I completed full Tier 1 and Tier 2 escalation workflows with detailed work notes documenting each step, and applied ITIL concepts including the Impact/Urgency priority matrix and resolution code classification. This gave me practical experience with the ticketing and escalation discipline that underpins how real SOC teams track and hand off incidents. 
 
 ```js
 // Javascript code with syntax highlighting.
