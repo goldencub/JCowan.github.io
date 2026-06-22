@@ -16,7 +16,7 @@ layout: default
 
 <br><br>
 
-# Malware Reverse Engineering -> [View Project](./another-page.html
+# Malware Reverse Engineering -> [View Project](./another-page.html)
 
 <br><br>
 
