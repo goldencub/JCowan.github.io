@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Linkedin](https://www.linkedin.com/in/josiah-cowan/)  || josiahcowan@gmail.com
+
 This site documents
 the practical labs and projects I've built to develop real security
 operations skills — SIEM monitoring, incident triage, identity
