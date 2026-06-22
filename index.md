@@ -2,6 +2,12 @@
 layout: default
 ---
 
+This site documents
+the practical labs and projects I've built to develop real security
+operations skills — SIEM monitoring, incident triage, identity
+administration, and threat analysis.
+
+
 # Project List:
 
 # AD & Microsoft Sentinal Home Lab -> [View Project](./another-page.html)
