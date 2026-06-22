@@ -4,13 +4,16 @@ layout: default
 
 # Project List:
 
-# Active Directory & Microsoft Sentinal Home Lab --> [Project Files](./another-page.html)
+# Active Directory & Microsoft Sentinal Home Lab --> [View Project](./another-page.html)
 
-[# Phishing Email Analysis Project](./another-page.html)
 
-[# ServiceNow ITSM Practice](./another-page.html)
+# Phishing Email Analysis Project[View Project](./another-page.html)
 
-[# Malware Reverse Engineering](./another-page.html)
+
+# ServiceNow ITSM Practice[View Project](./another-page.html)
+
+
+# Malware Reverse Engineering[View Project](./another-page.html)
 
 
  
