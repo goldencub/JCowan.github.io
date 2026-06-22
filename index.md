@@ -4,7 +4,7 @@ layout: default
 
 # Project List:
 
-# Active Directory & Microsoft Sentinal Home Lab -> [View Project](./another-page.html)
+# AD & Microsoft Sentinal Home Lab -> [View Project](./another-page.html)
 
 <br><br>
 
