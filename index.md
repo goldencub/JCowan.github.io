@@ -4,7 +4,7 @@ layout: default
 
 # Project List:
 
-[# Active Directory & Microsoft Sentinal Home Lab](./another-page.html)
+# Active Directory & Microsoft Sentinal Home Lab --> [Project Files](./another-page.html)
 
 [# Phishing Email Analysis Project](./another-page.html)
 
