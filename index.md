@@ -8,7 +8,7 @@ layout: default
 
 <br><br>
 
-# Phishing Email Analysis Project -> [View Project](./another-page.html)
+# Phishing Email Analysis -> [View Project](./another-page.html)
 
 <br><br>
 
