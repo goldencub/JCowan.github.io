@@ -16,7 +16,7 @@ administration, and threat analysis.
 
 <br><br>
 
-# Phishing Email Analysis -> [View Project](./another-page.html)
+# Phishing Email Analysis -> [View Project](phishing_analysis.md)
 
 <br><br>
 
