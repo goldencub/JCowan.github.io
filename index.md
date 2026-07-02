@@ -12,6 +12,10 @@ administration, and threat analysis.
 
 # Project List:
 
+# Multi-VLAN Clinic Network -> [View Project](README(1).md)
+
+<br><br>
+
 # AD & Microsoft Sentinal Home Lab -> [View Project](./another-page.html)
 
 <br><br>
