@@ -12,6 +12,10 @@ administration, and threat analysis.
 
 # Project List:
 
+# Home Lab: network Security & Penetration Testing Environment -> [View Project](homelab/Portfolio Topology.png)
+
+<br><br>
+
 # Multi-VLAN Clinic Network -> [View Project](README(1).md)
 
 <br><br>
