@@ -1,12 +1,10 @@
-Cyber Security Portfolio
-
-A VirtualBox home lab covering firewalls, subnetting, and network monitoring — built from scratch, documented as it breaks.
+__Hey, I'm Josiah__
 
 About Me
 
 I'm a Cert IV Cybersecurity student based in Melbourne, actively pursuing CompTIA Network+ and Security+ certifications with CCNA to follow. I build and break things in a home lab, document everything on GitHub, and am working toward a career in networking and cybersecurity.
 
-Before moving into IT I spent 15+ years in customer-facing roles — I bring clear communication and a methodical approach to everything I work on.
+Before moving into IT I spent 15+ years in customer-facing roles — I try and bring clear communication and a methodical approach to everything I work on.
 
 📍 Melbourne, VIC
 📚 Cert IV in Cybersecurity
