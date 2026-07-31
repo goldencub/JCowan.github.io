@@ -2,9 +2,9 @@
 
 <h1>About Me</h1>
 
-I'm a Cert IV Cybersecurity student based in Melbourne, actively pursuing CompTIA Network+ and Security+ certifications with CCNA to follow. I build and break things in a home lab, document everything on GitHub, and am working toward a career in networking and cybersecurity.
+I'm a Melbourne-based cybersecurity and networking professional, newly qualified with a Certificate IV in Cybersecurity and working toward CompTIA Network+ and Security+, with CCNA to follow. I build and break things in a home lab and document everything on GitHub — from segmented network designs to Active Directory and firewall builds.
 
-Before moving into IT I spent 15+ years in customer-facing roles — I try and bring clear communication and a methodical approach to everything I work on.
+Before moving into IT I spent 15+ years in customer-facing roles, and I bring that same clear communication and methodical approach to everything I work on.
 
 <br><br>
 
@@ -26,11 +26,16 @@ Cisco Packet Tracer · VLSM · VLANs · Router-on-a-stick · ACLs
 
 Designed and built a multi-department hospital network from scratch. Subnetted a 192.168.50.0/24 block using VLSM, configured VLANs across two switches, implemented inter-VLAN routing, and applied ACLs to block Guest-to-Clinical traffic. Verified with end-to-end pings.
 
-View project → [Clickable Text](https://example.com)
+View project → [Meadowbrook Medical Network](Meadowbrook Network/README.md)
 
 <br><br>
 
-<h2><strong>3 Level Nightclub Network Topology & Cybersecurity Infrastructure</strong></h2>
+<h2><strong>🕺 Venue Network Infrastructure Design — 3-Story, 300-Capacity Hospitality Site</strong></h2>
+
+<p>A greenfield network and systems design for a multi-floor live music venue, built to model how an internal IT function would stand up from scratch. The project segments the network into isolated VLANs — separating card payments (POS/EFTPOS), back-office, AV/signage, CCTV, and guest WiFi — following PCI-DSS and least-privilege principles, with a default-deny firewall permitting only required traffic. It covers the full stack: a pfSense firewall, per-floor PoE switching with inter-VLAN routing, Active Directory (OU structure, security groups, onboarding/offboarding SOPs), Microsoft 365 with enforced MFA, isolated guest WiFi, and a standard security hardening baseline. The segmented core is validated in Packet Tracer, with AD and firewall components built live in a virtualised home lab. Deliverables include a full network diagram, IP/VLAN addressing plan, firewall ruleset, AD design document, and security baseline.
+
+View project -> [Clickable Text](Venue Network Infrastructure Design)
+</p>
 
 <br><br>
 
