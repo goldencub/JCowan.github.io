@@ -34,7 +34,7 @@ View project → [Meadowbrook Medical Network](Meadowbrook Network/README.md)
 
 <p>A greenfield network and systems design for a multi-floor live music venue, built to model how an internal IT function would stand up from scratch. The project segments the network into isolated VLANs — separating card payments (POS/EFTPOS), back-office, AV/signage, CCTV, and guest WiFi — following PCI-DSS and least-privilege principles, with a default-deny firewall permitting only required traffic. It covers the full stack: a pfSense firewall, per-floor PoE switching with inter-VLAN routing, Active Directory (OU structure, security groups, onboarding/offboarding SOPs), Microsoft 365 with enforced MFA, isolated guest WiFi, and a standard security hardening baseline. The segmented core is validated in Packet Tracer, with AD and firewall components built live in a virtualised home lab. Deliverables include a full network diagram, IP/VLAN addressing plan, firewall ruleset, AD design document, and security baseline.
 
-View project -> [Clickable Text](Venue Network Infrastructure Design)
+View project -> [Clickable Text](Venue Network Infrastructure Design/README.md)
 </p>
 
 <br><br>
