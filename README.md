@@ -47,7 +47,7 @@ Email forensics · Header analysis · IOC identification
 
 Analysed a real-world phishing email sample — dissected headers, identified spoofed sender domains, extracted indicators of compromise, and documented findings.
 
-View project →
+View project → [Phishing Analysis](Phishing-Analysis/phishing_analysis.md)
 
 <br><br>
 
