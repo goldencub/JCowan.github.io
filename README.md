@@ -65,14 +65,14 @@ View project →
 
 <h3><strong>Certifications & Training</strong></h3>
 
-Cert IV in Cybersecurity (Passed - 2026)
+- Cert IV in Cybersecurity (Passed - 2026)
 
-Cert III in Information Technology (Passed - 2025)
+- Cert III in Information Technology (Passed - 2025)
 
-CompTIA Network+ (in progress eta October 2026)
+- CompTIA Network+ (in progress eta October 2026)
 
-CompTIA Security+ (in progress - December 2026)
+- CompTIA Security+ (in progress - December 2026)
 
-SOC Core Skills — Antisyphon Training w/ John Strand (Passed - 2026)
+- SOC Core Skills — Antisyphon Training w/ John Strand (Passed - 2026)
 
 This portfolio is actively updated as projects are completed. All documentation includes real troubleshooting notes — not just the wins.
