@@ -43,7 +43,10 @@ View project → [Venue Network Infrastructure](Venue%20Network%20Infrastructure
 
 <h2><strong>⛵ SchoonerScanner Port Scanner</strong></h2>
 
-<p>a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.</p>
+<p>a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
+
+View project -> [SchoonerScan](SchoonerScan/README.md)
+</p>
 
 <br><br>
 
