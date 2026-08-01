@@ -41,6 +41,10 @@ VView project → [Venue Network Infrastructure](Venue%20Network%20Infrastructur
 
 <br><br>
 
+<h2><strong>SchoonerScanner Port Scanner</strong></h2>
+
+<p>a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.</p>
+
 <h2><strong>🔬 Phishing Email Analysis</strong></h2>
 
 Email forensics · Header analysis · IOC identification
