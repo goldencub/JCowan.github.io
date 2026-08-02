@@ -2,9 +2,8 @@
 
 <h1>About Me</h1>
 
-I'm a Melbourne-based cybersecurity and networking professional, newly qualified with a Certificate IV in Cybersecurity and working toward CompTIA Network+ and Security+, with CCNA to follow. I build and break things in a home lab and document everything on GitHub — from segmented network designs to Active Directory and firewall builds.
+I'm a Melbourne-based cybersecurity and networking professional, newly qualified with a Certificate IV in Cybersecurity and working toward CompTIA Network+ and Security+, with CCNA to follow. I build and break things in a home lab and document everything on GitHub — from network designs to Active Directory and firewall builds.
 
-Before moving into IT I spent 15+ years in customer-facing roles, and I bring that same clear communication and methodical approach to everything I work on.
 
 <br><br>
 
