@@ -31,6 +31,13 @@ View project → [Meadowbrook Medical Network](Meadowbrook%20Network/README.md)
 
 <br><br>
 
+<h2><strong>Web Application Penetration Test — DVWA & Mutillidae</strong></h2>
+
+This project documents a full web application penetration test I carried out in my home lab against two deliberately vulnerable training applications, DVWA and Mutillidae, both hosted on a Metasploitable2 target. The goal was to work through the OWASP Top 10 end to end — from reconnaissance, to exploitation, to writing the kind of client-facing report a real engagement produces, complete with CVSS risk ratings and remediation advice.
+
+View project -> 
+
+
 <h2><strong>🕺 Venue Network Infrastructure Design — 3-Story, 300-Capacity Hospitality Site</strong></h2>
 
 <p>A greenfield network and systems design for a multi-floor live music venue, built to model how an internal IT function would stand up from scratch. The project segments the network into isolated VLANs — separating card payments (POS/EFTPOS), back-office, AV/signage, CCTV, and guest WiFi — following PCI-DSS and least-privilege principles, with a default-deny firewall permitting only required traffic. It covers the full stack: a pfSense firewall, per-floor PoE switching with inter-VLAN routing, Active Directory (OU structure, security groups, onboarding/offboarding SOPs), Microsoft 365 with enforced MFA, isolated guest WiFi, and a standard security hardening baseline. The segmented core is validated in Packet Tracer, with AD and firewall components built live in a virtualised home lab. Deliverables include a full network diagram, IP/VLAN addressing plan, firewall ruleset, AD design document, and security baseline.
