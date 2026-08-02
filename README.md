@@ -37,6 +37,7 @@ This project documents a full web application penetration test I carried out in 
 
 View project ->[web-app-pentest/README.md](web-app-pentest/README.md)
 
+<br><br>
 
 <h2><strong>🕺 Venue Network Infrastructure Design — 3-Story, 300-Capacity Hospitality Site</strong></h2>
 
