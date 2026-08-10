@@ -72,7 +72,7 @@ View project → [Virtualised Network & Security Environment](homelab.md)
 - <strong>Networking</strong> — Subnetting, VLANs, VLSM, ACLs, Cisco IOS, Packet Tracer
 - <strong>Security</strong> — Kali Linux, Nmap, WPScan, Wireshark, Netdiscover
 - <strong>Virtualisation</strong> — VirtualBox,Hyper-V, pfSense, Ubuntu Server
--<strong>Scripting</strong> — Python, Bash, PowerShell, Terminal
+- <strong>Scripting</strong> — Python, Bash, PowerShell, Terminal
 
 <h3><strong>Certifications & Training</strong></h3>
 
