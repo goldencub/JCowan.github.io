@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clinic Network
+title: Meadowbrook Network
 ---
 
 # Meadowbrook Medical — Multi-VLAN Network Design
