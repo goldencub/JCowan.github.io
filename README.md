@@ -76,13 +76,13 @@ View project → [Virtualised Network & Security Environment](homelab)
 
 <h3><strong>Certifications & Training</strong></h3>
 
-- Certificate IV in Cybersecurity (Passed - 2026)
+- Certificate IV in Cybersecurity (August - 2026)
 
-- Certificate III in Information Technology (Passed - 2025)
+- Certificate III in Information Technology (2025)
 
 - CompTIA Network+ (in progress eta October 2026)
 
-- CompTIA Security+ (in progress - December 2026)
+- CompTIA Security+ (in progress eta December 2026)
 
 - SOC Core Skills — Antisyphon Training w/ John Strand (Passed - 2026)
 
