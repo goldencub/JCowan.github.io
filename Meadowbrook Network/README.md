@@ -1,3 +1,8 @@
+---
+layout: default
+title: Clinic Network
+---
+
 # Meadowbrook Medical — Multi-VLAN Network Design
 
 A small clinic network built in Cisco Packet Tracer, designed from real business requirements. Demonstrates VLSM subnetting, VLANs, inter-VLAN routing (router-on-a-stick), and access control using ACLs.
