@@ -1,3 +1,8 @@
+---
+layout: default
+title: Meadowbrook Network
+---
+
 # Home Lab — Virtualised Network & Security Environment
 
 > A VirtualBox home lab covering firewalls, subnetting, and network monitoring — built from scratch, documented as it breaks.
