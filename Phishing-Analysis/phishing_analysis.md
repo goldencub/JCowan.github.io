@@ -1,5 +1,6 @@
 ---
 layout: default
+theme: midnight
 ---
 
 # Phishing Email Analysis Project
