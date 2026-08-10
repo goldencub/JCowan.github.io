@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meadowbrook Network
+title: Meadowbrook%20Network
 ---
 
 # Meadowbrook Medical — Multi-VLAN Network Design
