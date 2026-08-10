@@ -57,7 +57,6 @@ View project ->[Web App Pentest](web-app-pentest/README.md)
 
  [SchoonerScan](SchoonerScan/README.md)
  
-</p>
 
 <br><br>
 
