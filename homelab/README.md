@@ -32,7 +32,6 @@ Installed Ubuntu Server on VirtualBox and confirmed internet connectivity. Notic
 **Key takeaway:** documented the NAT traffic flow —
 `VM → VirtualBox router → host machine's real IP → internet`
 
-[View session notes →]()
 
 ---
 
@@ -43,7 +42,7 @@ Set up the GitHub portfolio repository and documented Session 1's findings. Desi
 
 **Key takeaway:** a clear diagram up front makes the later firewall and segmentation work much easier to reason about.
 
-[View session notes →]()
+
 
 ---
 
