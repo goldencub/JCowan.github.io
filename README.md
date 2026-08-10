@@ -38,7 +38,7 @@ View project → [Meadowbrook Medical Network](Meadowbrook%20Network/README.md)
 
 <br><br>
 
-<h2><strong>Web Application Penetration Test — DVWA & Mutillidae</strong></h2>
+<h2><strong>🕵️ Web Application Penetration Test — DVWA & Mutillidae</strong></h2>
 
 This project documents a full web application penetration test I carried out in my home lab against two deliberately vulnerable training applications, DVWA and Mutillidae, both hosted on a Metasploitable2 target. The goal was to work through the OWASP Top 10 end to end — from reconnaissance, to exploitation, to writing the kind of client-facing report a real engagement produces, complete with CVSS risk ratings and remediation advice.
 
