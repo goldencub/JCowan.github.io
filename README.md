@@ -1,19 +1,27 @@
-<h3>Hey! I'm Josiah</h3>
+<h3>Hey!👋I'm Josiah</h3>
 
 <h1>About Me</h1>
 
-I'm a Melbourne-based cybersecurity and networking professional, newly qualified with a Certificate IV in Cybersecurity and working toward CompTIA Network+ and Security+, with CCNA to follow. I build and break things in a home lab and document everything on GitHub — from network designs to Active Directory and firewall builds.
+This portfolio is a hands-on record of my work in IT and cybersecurity. It shows the projects I've built — home lab networks, security setups, scripts, and troubleshooting write-ups — so you can see what I've actually done, not just a list of skills.
+Everything is documented clearly, including the issues I ran into and how I fixed them. I update it as I finish new projects and work through my certifications.
+This portfolio is actively updated as projects are completed - more is to come...
+<br><br>
+Thank-you for visiting!
 
 
 <br><br>
 
 📍 Melbourne, VIC
 <br><br>
-📚 Cert IV in Cybersecurity | Google Cybersecurity Certificate
+📚 Cert IV in Cybersecurity 
 <br><br>
-🏅 Pursuing Network+, Security+, CCNA
+🔌 Cert III in Information Technology
 <br><br>
-🎟️ Volunteer — AISA CyberCon Melbourne, October 2026
+🌐Google Cybersecurity Certificate
+<br><br>
+🖧 Cisco Networking Essentials
+<br><br>
+🏅 Pursuing CompTIA Network+ and Security+
 <br><br>
 
 <h1>Projects</h1>
@@ -58,23 +66,19 @@ View project → [Virtualised Network & Security Environment](homelab.md)
 
 <h3><strong>Core Skills & Technologies</strong></h3>
 
-
-- <strong>Networking</strong> -	Subnetting, VLANs, VLSM, ACLs, Cisco IOS, Packet Tracer
-
-- <strong>Security</strong> -	Kali Linux, Nmap, WPScan, Wireshark, Netdiscover
-
-- <strong>Virtualisation</strong> -  VirtualBox, pfSense, Ubuntu Server
-
-- <strong>Monitoring</strong> - Wireshark, packet capture and analysis
-
-- <strong>Scripting</strong> - 	Python, Bash, Powershell, Terminal
-  <br><br>
+- <strong>End-User Support</strong> — Windows 10 & 11, macOS, Microsoft 365, hardware & peripheral troubleshooting, remote assistance
+- <strong>Ticketing / ITSM</strong> — ServiceNow (hands-on simulator: incident logging & service request workflow), SLA-aware ticketing concepts, ticket-style documentation
+- <strongIdentity & Access</strong> — Active Directory user administration, account setup and access management (Windows Server 2022)
+- <strong>Networking</strong> — Subnetting, VLANs, VLSM, ACLs, Cisco IOS, Packet Tracer
+- <strong>Security</strong> — Kali Linux, Nmap, WPScan, Wireshark, Netdiscover
+- <strong>Virtualisation</strong> — VirtualBox,Hyper-V, pfSense, Ubuntu Server
+-<strong>Scripting</strong> — Python, Bash, PowerShell, Terminal
 
 <h3><strong>Certifications & Training</strong></h3>
 
-- Cert IV in Cybersecurity (Passed - 2026)
+- Certificate IV in Cybersecurity (Passed - 2026)
 
-- Cert III in Information Technology (Passed - 2025)
+- Certificate III in Information Technology (Passed - 2025)
 
 - CompTIA Network+ (in progress eta October 2026)
 
@@ -82,4 +86,4 @@ View project → [Virtualised Network & Security Environment](homelab.md)
 
 - SOC Core Skills — Antisyphon Training w/ John Strand (Passed - 2026)
 
-This portfolio is actively updated as projects are completed. All documentation includes real troubleshooting notes — not just the wins.
+
