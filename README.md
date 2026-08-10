@@ -68,7 +68,7 @@ View project → [Virtualised Network & Security Environment](homelab.md)
 
 - <strong>End-User Support</strong> — Windows 10 & 11, macOS, Microsoft 365, hardware & peripheral troubleshooting, remote assistance
 - <strong>Ticketing / ITSM</strong> — ServiceNow (hands-on simulator: incident logging & service request workflow), SLA-aware ticketing concepts, ticket-style documentation
-- <strongIdentity & Access</strong> — Active Directory user administration, account setup and access management (Windows Server 2022)
+- <strong>Identity & Access</strong> — Active Directory user administration, account setup and access management (Windows Server 2022)
 - <strong>Networking</strong> — Subnetting, VLANs, VLSM, ACLs, Cisco IOS, Packet Tracer
 - <strong>Security</strong> — Kali Linux, Nmap, WPScan, Wireshark, Netdiscover
 - <strong>Virtualisation</strong> — VirtualBox,Hyper-V, pfSense, Ubuntu Server
