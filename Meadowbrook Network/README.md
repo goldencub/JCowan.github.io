@@ -35,7 +35,6 @@ Guest gets the biggest slice because guest traffic is the most variable — cust
 
 Guest lives on its own switch on purpose — physical separation from clinical systems is a nice bonus on top of the logical VLAN boundary.
 
-![Topology](topology.png)
 
 ## Key configuration
 
@@ -106,12 +105,7 @@ Screenshots in `/screenshots/`.
 - **169.254 is a diagnostic signal** — it always means DHCP failed, which points to VLAN or trunk misconfiguration
 - **The `switchport trunk allowed vlan` command replaces rather than adds** — one wrong command can knock out an entire network
 
-## Files in this repo
 
-- `meadowbrook.pkt` — Packet Tracer file
-- `configs/` — running-config from each device
-- `screenshots/` — verification screenshots
-- `topology.png` — network diagram
 
 ## Skills demonstrated
 
