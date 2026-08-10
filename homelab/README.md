@@ -18,7 +18,7 @@ This lab is a hands-on environment for practising real networking and security s
 
 All internal VMs sit behind OPNsense on an isolated virtual network. OPNsense acts as the gateway — the same role a physical firewall plays in a real network. Traffic from the internal VMs must pass through OPNsense to reach the outside world.
 
-[<strong>Network Topology</strong>](homelab/Portfolio Topology.png)
+<strong>[Network Topology]</strong>(homelab/Portfolio Topology.png)
 
 ---
 
