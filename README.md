@@ -38,41 +38,12 @@ View project ->[Web App Pentest](web-app-pentest/README.md)
 
 <br><br>
 
-<h2><strong>🕺 Venue Network Infrastructure Design — 3-Story, 300-Capacity Hospitality Site</strong></h2>
-
-<p>A greenfield network and systems design for a multi-floor live music venue, built to model how an internal IT function would stand up from scratch. 
-
-The project segments the network into isolated VLANs:
- - Card payments (POS/EFTPOS)
- - back-office
- - AV/signage
- - CCTV
- - Guest WiFi —
-
-following PCI-DSS and least-privilege principles, with a default-deny firewall permitting only required traffic. It covers the full stack: a pfSense firewall, per-floor PoE switching with inter-VLAN routing, Active Directory (OU structure, security groups, onboarding/offboarding SOPs), Microsoft 365 with enforced MFA, isolated guest WiFi, and a standard security hardening baseline. The segmented core is validated in Packet Tracer, with AD and firewall components built live in a virtualised home lab. Deliverables include a full network diagram, IP/VLAN addressing plan, firewall ruleset, AD design document, and security baseline.
-
-View project → [Venue Network Infrastructure](Venue%20Network%20Infrastructure%20Design/README.md)
-
-</p>
-
-<br><br>
-
 <h2><strong>⛵ SchoonerScanner Port Scanner</strong></h2>
 
 <p>a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
 
 View project -> [SchoonerScan](SchoonerScan/README.md)
 </p>
-
-<br><br>
-
-<h2><strong>🔬 Phishing Email Analysis</strong></h2>
-
-Email forensics · Header analysis · IOC identification
-
-Analysed a real-world phishing email sample — dissected headers, identified spoofed sender domains, extracted indicators of compromise, and documented findings.
-
-View project → [Phishing Analysis](Phishing-Analysis/phishing_analysis.md)
 
 <br><br>
 
