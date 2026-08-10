@@ -38,7 +38,7 @@ Cisco Packet Tracer · VLSM · VLANs · Router-on-a-stick · ACLs
 
 Designed and built a multi-department hospital network from scratch. Subnetted a 192.168.50.0/24 block using VLSM, configured VLANs across two switches, implemented inter-VLAN routing, and applied ACLs to block Guest-to-Clinical traffic. Verified with end-to-end pings.
 
-View project → [Meadowbrook Medical Network](Meadowbrook$20Network/README.md)
+View project → [Meadowbrook Medical Network](meadowbrook-network)
 
 
 <br><br>
