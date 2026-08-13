@@ -56,7 +56,7 @@ View project ->[Web App Pentest](web-app-pentest/README.md)
 
 a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
 
- View project -> [schoonerscan](schoonerscan)
+ View project -> [schoonerscan](schoonerscan/README.md)
  
 
 <br><br>
