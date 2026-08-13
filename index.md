@@ -53,7 +53,7 @@ View project ->[Web App Pentest](web-app-pentest/README.md)
 
 <h2><strong>⛵ SchoonerScanner Port Scanner</strong></h2>
 
-<p>a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
+a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
 
  View project -> [schoonerscan](schoonerscan)
  
