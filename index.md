@@ -12,7 +12,7 @@
 
 This portfolio is a hands-on record of my work in IT and cybersecurity. It shows the projects I've built — home lab networks, security setups, scripts, and troubleshooting write-ups — so you can see what I've actually done, not just a list of skills.
 Everything is documented clearly, including the issues I ran into and how I fixed them. I update it as I finish new projects and work through my certifications.
-This portfolio is actively updated as projects are completed - more is to come...
+more is to come...
 <br><br>
 Thank-you for visiting!
 
