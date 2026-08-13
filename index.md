@@ -80,6 +80,8 @@ View project → [Virtualised Network & Security Environment](homelab/README.md)
 - <strong>Virtualisation</strong> — VirtualBox,Hyper-V, pfSense, Ubuntu Server
 - <strong>Scripting</strong> — Python, Bash, PowerShell, Terminal
 
+<br><br>
+
 <h3><strong>Certifications & Training</strong></h3>
 
 - Certificate IV in Cybersecurity (August - 2026)
