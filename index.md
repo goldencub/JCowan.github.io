@@ -66,7 +66,8 @@ VirtualBox · Ubuntu · pfSense · Kali Linux · Wireshark · Nmap
 
 Building a virtualised home lab for hands-on networking and security practice. Sessions cover VM setup, firewall configuration, network monitoring, and offensive security tooling — with documented troubleshooting notes at every step.
 
-View project → [Virtualised Network & Security Environment](homelab/README.md))
+View project → [Virtualised Network & Security Environment](homelab/README.md)
+
 <br><br>
 
 <h3><strong>Core Skills & Technologies</strong></h3>
