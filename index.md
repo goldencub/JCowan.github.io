@@ -3,7 +3,7 @@
 
 <h3>Hey! 👋 I'm Josiah</h3>
 
-[My Linkedin](https://www.linkedin.com/in/josiah-cowan/)   |  Email: josiahcowan@gmail.com
+[My Linkedin](https://www.linkedin.com/in/josiah-cowan/)   ||   Email: josiahcowan@gmail.com
 
 
 
